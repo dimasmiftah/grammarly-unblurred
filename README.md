@@ -1,4 +1,4 @@
-# Grammarly Unblur Chrome Extension
+# Grammarly Unblurred Chrome Extension
 
 This Chrome extension removes the blur effect from Grammarly elements by overriding the CSS styles.
 
@@ -34,4 +34,4 @@ None at the moment.
 
 ### 1.0.0
 
-Initial release of Grammarly Unblur Chrome Extension
+Initial release of Grammarly Unblurred Chrome Extension
