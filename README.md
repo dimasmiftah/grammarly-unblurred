@@ -24,7 +24,7 @@ This Chrome extension removes the blur effect from Grammarly elements by overrid
 
 ## Requirements
 
-- Google Chrome browser
+- Chromium browser
 
 ## Known Issues
 
