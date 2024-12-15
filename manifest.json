@@ -3,13 +3,6 @@
   "name": "Grammarly Unblurred",
   "version": "1.0",
   "description": "Remove blur effect from Grammarly elements",
-  "permissions": [
-    "activeTab",
-    "scripting"
-  ],
-  "host_permissions": [
-    "<all_urls>"
-  ],
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
