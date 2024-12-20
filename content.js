@@ -20,7 +20,7 @@ function getTextWithoutStrikethrough(element) {
             }
         }
     });
-    return texts.join('').trim();
+    return texts.join('').trim().replace(/^\.{3}|\.{3}$/g, '');
 }
 
 // Function to process elements
