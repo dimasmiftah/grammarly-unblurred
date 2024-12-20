@@ -93,8 +93,6 @@ function startObserving() {
 
         processElements();
         clearInterval(checkInterval);
-    } else {
-        console.log('Waiting for grammarly-popups to appear...');
     }
 }
 
